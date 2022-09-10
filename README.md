@@ -1,2 +1,2 @@
 # esp8266
-Projetos com ESP82
+Projetos com ESP8266
